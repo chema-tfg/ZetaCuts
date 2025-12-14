@@ -58,5 +58,5 @@ composer.phar
 composer.lock
 
 # NPM
-package-lock.json
+# package-lock.json - NO ignorar, es importante para el proyecto
 yarn.lock
